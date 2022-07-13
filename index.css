@@ -1,0 +1,50 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+margin: 0;
+background: #D5E0EF;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+   
+}
+.card{
+    
+    width: 250px;
+    background: #ffffff;
+    padding: 16px;
+    border-radius: 16px;
+    box-shadow: 5px 5px 20px #3c649c;
+    
+}
+
+.card--qr{
+    background: #2189f2;
+    border-radius: 16px;
+    height: 234px;
+    
+    
+}
+.card--qr-img{
+    background: #ffffff;
+    width: 116px;
+    height: 116px;
+    border-radius: 8px;
+ 
+}
+
+
+img{
+   
+   width: 100px;
+}
+
+h2, p {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
